@@ -16,12 +16,22 @@
 </div>
 
 ##
-
+<h3 align="center" style="margin-bottom: 15px;">Minhas Redes</h3>
+<br>
 <div align="center">
-  <a href="mailto:victorh.almeida131@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/victor-hernandez-soares-almeida-8a20872a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:victorh.almeida131@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/victor-hernandez-soares-almeida-8a20872a0/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=simpleicons&logoColor=white">
+  </a>
 </div>
+
 
 ##
 
