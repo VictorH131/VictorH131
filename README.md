@@ -42,3 +42,12 @@
 - 🌀 **Vortex – Sistema de Políticas, Regras e Termos** – [Repositorio do Site](https://github.com/VictorH131/P.I.-Fatec---Vortex)
 
 - 💼 *Outros projetos pessoais e acadêmicos em breve!* 
+
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorH131/VictorH131/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VictorH131/VictorH131/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VictorH131/VictorH131/output/github-contribution-grid-snake.svg" />
+</picture>
