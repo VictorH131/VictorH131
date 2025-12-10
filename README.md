@@ -44,7 +44,7 @@
 - 💼 *Outros projetos pessoais e acadêmicos em breve!* 
 
 
----
+##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorH131/VictorH131/output/github-contribution-grid-snake-dark.svg" />
